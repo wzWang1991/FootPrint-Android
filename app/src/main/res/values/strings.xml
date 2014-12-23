@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FootPrint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_photo_take">PhotoTake</string>
+    <string name="title_activity_uploading_photo">Upload a photo</string>
+    <string name="title_activity_upload_photo">Upload a photo</string>
+
+</resources>
